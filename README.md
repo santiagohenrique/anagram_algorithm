@@ -1,7 +1,7 @@
 # ALGORITMO DE ANAGRAMA
 
 ## Descrição
-- O projeto "ALGORITMO DE ANAGRAMA" implementa um algoritmo para verificar se duas strings são anagramas. Um anagrama é uma palavra ou frase formada reorganizando as letras de outra, usando todas as letras originais exatamente uma vez. O programa recebe duas strings do usuário, imprime as strings fornecidas e, em seguida, determina se são anagramas.
+- O projeto "ALGORITMO DE ANAGRAMA" implementa um algoritmo para verificar se duas strings são anagramas. Um anagrama é uma palavra ou frase formada reorganizando as letras de outra, usando todas as letras originais exatamente uma vez ("IRACEMA" e "AMERICA", por exemplo). O programa recebe duas strings do usuário, imprime as strings fornecidas e, em seguida, determina se são anagramas.
 
 ## Características
 - Implementa um método isAnagram para verificar se duas strings são anagramas.
