@@ -16,7 +16,11 @@ public class Main {
 
 		boolean result = isAnagram(s1, s2);
 
-		System.out.println(result);
+		if(result) {
+			System.out.println("ANAGRAMS!");
+		} else {
+			System.out.println("NOT ANAGRAMS!");
+		}
 		
 		sc.close();
 	}
